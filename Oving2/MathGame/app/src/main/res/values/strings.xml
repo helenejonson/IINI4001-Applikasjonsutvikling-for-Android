@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="adder">Adder</string>
+    <string name="multi">Multipliser</string>
+    <string name="svar">Svar: </string>
+    <string name="ovre">Øvre grense: </string>
+    <string name="rikt">Riktig!</string>
+    <string name="feil">Feil. Riktig svar er </string>
+    <string name="reset">Reset</string>
+</resources>

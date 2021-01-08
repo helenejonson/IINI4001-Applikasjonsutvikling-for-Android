@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFriends</string>
+    <string name="title">MyFriends</string>
+    <string name="add">Legg til</string>
+    <string name="show">Liste</string>
+    <string name="name">Navn: </string>
+    <string name="birthday">Født: </string>
+    <string name="title2">Legg til venn</string>
+    <string name="save">Lagre</string>
+    <string name="back">Tilbake</string>
+
+
+</resources>

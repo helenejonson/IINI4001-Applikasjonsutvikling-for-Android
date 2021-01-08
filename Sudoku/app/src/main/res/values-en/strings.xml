@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="back">Back</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="play">Play</string>
+    <string name="add">Add board</string>
+    <string name="check">Check answer</string>
+    <string name="make">Make board</string>
+    <string name="save">Save</string>
+    <string name="red">Red</string>
+    <string name="reset">Restart</string>
+    <string name="remove">Erase</string>
+    <string name="settings">Settings</string>
+    <string name="language">Set language</string>
+    <string name="right">Correct</string>
+    <string name="wrong">Wrong. Try again</string>
+    <string name="saved">Board saved</string>
+    <string name="manual">Manual</string>
+
+    <string name="manualText">
+        How to play the game?\n
+        Fill the horizontal, vertical and 3x3 boxes with the numbers 1-9.\n
+        The numbers can ony be used 1 time in each row/ 3x3 box.\n
+        Tap on the box you want to add a number to, then tap on the number you want to out there.\n
+        You can make the number red by checking the "red" box.\n
+        Delete the number in the box by tapping the box and press delete. \n
+        Tap "Restart" if you want to start from the beginning.\n
+        When everything is filled out you can check your answer by pressing "Check board".\n
+        \n
+        How to add a new board?\n
+        Tap on the box you want to add a number to, then tap on the number you want to out there.\n
+        Choose the level of the board in the menu.\n
+        Save the board by pressing "Save".\n
+        \n
+        Settings:\n
+        Change language by tapping the three dots at the top right corner and tap settings.
+    </string>
+
+    <string-array name="spinnerValues">
+        <item>@string/easy</item>
+        <item>@string/medium</item>
+        <item>@string/hard</item>
+    </string-array>
+</resources>

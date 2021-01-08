@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    android:layout_width="414dp"
+    android:layout_height="735dp"
+    android:key="first_preferencescreen"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+    <ListPreference
+        android:title="Background"
+        android:entries="@array/color_name"
+        android:entryValues="@array/color_value"
+        android:summary="Velg farge"
+        android:key="backgroundColorPref"/>
+</PreferenceScreen>

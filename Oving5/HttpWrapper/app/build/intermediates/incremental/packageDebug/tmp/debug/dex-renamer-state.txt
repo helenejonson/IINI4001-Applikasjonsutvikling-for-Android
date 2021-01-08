@@ -1,0 +1,4 @@
+#Fri Oct 02 14:18:08 CEST 2020
+base.0=C\:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

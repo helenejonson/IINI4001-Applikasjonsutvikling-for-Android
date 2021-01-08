@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="back">Tilbake</string>
+    <string name="easy">Lett</string>
+    <string name="medium">Middels</string>
+    <string name="hard">Vanskelig</string>
+    <string name="play">Spill</string>
+    <string name="add">Legg til</string>
+    <string name="check">Sjekk svar</string>
+    <string name="make">Lag brett</string>
+    <string name="save">Lagre</string>
+    <string name="red">Rød</string>
+    <string name="reset">Resett</string>
+    <string name="remove">Slett</string>
+    <string name="settings">Innstillinger</string>
+    <string name="language">Sett språk</string>
+    <string name="right">Riktig</string>
+    <string name="wrong">Feil. Prøv igjen</string>
+    <string name="saved">Brett lagret</string>
+    <string name="manual">Manual</string>
+    <string name="manualText">
+        Hvordan spille spillet?\n
+        Fyll hver horisontale, diagonale og 3x3 rute med tallene 1-9.\n
+        Tallene kan bare være 1 gang i hver 3x3 rute/rad.\n
+        Trykk på ruta du vil redigere og deretter trykker du på tallet du ønsker å sette inn der.\n
+        Dersom du er usikker kan du gjøre tallet rødt ved å sjekke av i boksen.\n
+        Slett nummeret i ruta ved å trykke på ruta og deretter "Slett" knappen. \n
+        Ønsker du å begynne på nytt trykker du på "Resett".\n
+        Når alle rutene er fylt, kan du sjekke svaret ved å trykke på "Sjekk svar".\n
+        \n
+        Hvordan legge til nye brett?\n
+        Trykk på ruta og deretter tallet du ønsker å sette inn.\n
+        Velg nivået på brettet i menyen.\n
+        Lagre spillet ved å trykke på lagre.\n
+        \n
+        Endre språk:\n
+        Trykk på de tre prikkene oppe i høyre hjørnet og trykk på innstinnger.
+    </string>
+
+    <string-array name="spinnerValues">
+        <item>@string/easy</item>
+        <item>@string/medium</item>
+        <item>@string/hard</item>
+    </string-array>
+</resources>

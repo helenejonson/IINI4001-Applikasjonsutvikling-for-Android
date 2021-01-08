@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_layout.xml.flat",
+        "source": "C:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\src\\main\\res\\layout\\main_layout.xml"
+    }
+]

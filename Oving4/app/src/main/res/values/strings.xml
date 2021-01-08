@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planetene</string>
+    <string name="Prev">Prev</string>
+    <string name="Next">Next</string>
+
+    <string-array name="Planeter">
+        <item>Merkur</item>
+        <item>Venus</item>
+        <item>Jorda</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptun</item>
+    </string-array>
+    <string-array name="PlanetFakta">
+        <item>Merkur er nærmest solen</item>
+        <item>Venus er den varmeste</item>
+        <item>Jorda er der du er (og rund)</item>
+        <item>Mars er rød</item>
+        <item>Jupiter er størst</item>
+        <item>Saturn er den med ringer</item>
+        <item>Uranus er en spøk</item>
+        <item>Neptun er den kule blå</item>
+    </string-array>
+
+    <array name="pictures">
+        <item>@drawable/merkur</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/jorda</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptun</item>
+    </array>
+</resources>

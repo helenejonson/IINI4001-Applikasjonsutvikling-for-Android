@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Sep 21 21:38:50 CEST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\helen\\Downloads\\Oving5\\HttpWrapper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

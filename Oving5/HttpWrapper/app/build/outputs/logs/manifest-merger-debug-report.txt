@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:3:7-31
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:9:5-25:19
+	android:label
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:9:48-80
+	android:icon
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:9:18-47
+activity#leksjon.oving5.HttpActivity
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:11:19-51
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:10:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:14:27-74
+activity#leksjon.oving5.GameActivity
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:label
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:17:19-61
+intent-filter#action:name:leksjon.http.GameActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:19:13-22:29
+action#leksjon.http.GameActivity
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:20:25-65
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml:21:27-73
+uses-sdk
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\helen\Downloads\Oving5\HttpWrapper\app\src\main\AndroidManifest.xml

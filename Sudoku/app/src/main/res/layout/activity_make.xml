@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/make"
+            android:layout_width="279dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/make"
+            android:textSize="30sp" />
+
+        <com.example.sudoku.SudokuView
+            android:id="@+id/SudokuViewMake"
+            android:layout_width="match_parent"
+            android:layout_height="408dp"
+            android:background="@color/view" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn1Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/btn2Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/btn3Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="3" />
+
+            <Button
+                android:id="@+id/btn4Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/btn5Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/btn6Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="6" />
+
+            <Button
+                android:id="@+id/btn7Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/btn8Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/btn9Make"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="numberClickMake"
+                android:text="9" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="93dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:entries="@array/spinnerValues" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="save"
+                android:text="@string/save" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:onClick="back2"
+            android:text="@string/back" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

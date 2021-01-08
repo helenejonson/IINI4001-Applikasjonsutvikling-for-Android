@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="back">Tilbake</string>
+    <string name="easy">Lett</string>
+    <string name="medium">Middels</string>
+    <string name="hard">Vanskelig</string>
+    <string name="play">Spill</string>
+    <string name="add">Legg til</string>
+    <string name="check">Sjekk svar</string>
+    <string name="make">Lag brett</string>
+    <string name="save">Lagre</string>
+    <string name="red">Rød</string>
+    <string name="reset">Resett</string>
+    <string name="remove">Slett</string>
+    <string name="settings">Settings</string>
+    <string name="language">Sett språk</string>
+    <string name="right">Riktig</string>
+    <string name="wrong">Feil. Prøv igjen</string>
+    <string name="saved">Brett lagret</string>
+    <string name="manual">Manual</string>
+
+    <string-array name="spinnerValues">
+        <item>@string/easy</item>
+        <item>@string/medium</item>
+        <item>@string/hard</item>
+    </string-array>
+
+    <string-array name="lang">
+        <item>Eng</item>
+        <item>Nor</item>
+    </string-array>
+
+    <string-array name="lang_val">
+        <item>en</item>
+        <item>no</item>
+    </string-array>
+
+    <string name="manualText"></string>
+</resources>
